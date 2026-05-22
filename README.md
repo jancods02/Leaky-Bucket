@@ -7,4 +7,4 @@ Packets arriving after the buffer is full are discarded.
 Helps routers and switches use bandwidth in a controlled manner.
 
 <img width="1028" height="523" alt="image" src="https://github.com/user-attachments/assets/c77065e4-2822-4ff3-ad69-7b4099fbdfc4" />
-src: Geeks for Geeks
+
